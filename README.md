@@ -6,4 +6,4 @@ You are free to read, share, and learn from them.
 If you find them useful, feel free to share them with proper credit.
 
 📌 Code for this 30-day journey is available here:
-https://github.com/priyal-it/OpenCV-codes
+https://github.com/priy7l/OpenCV-codes
